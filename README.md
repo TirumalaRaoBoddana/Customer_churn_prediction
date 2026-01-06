@@ -20,7 +20,20 @@ The main objectives of this project are:
 - To deploy the model as a web application
 
 ---
+## 📊 Dataset
+The dataset used in this project is the **E-commerce Customer Churn Analysis and Prediction Dataset**, which contains detailed customer information related to purchasing behavior, engagement, and churn patterns.
 
+🔗 **Dataset Link (Kaggle):**  
+https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction
+
+### Dataset Highlights:
+- Customer demographics
+- Purchase history and transaction details
+- Engagement metrics and usage behavior
+- Account and subscription-related attributes
+- Target variable: **Churn** (Yes / No)
+
+---
 ## 🧠 Machine Learning Approach
 
 ### 1️⃣ Data Preprocessing
