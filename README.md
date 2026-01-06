@@ -34,6 +34,16 @@ https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis
 - Target variable: **Churn** (Yes / No)
 
 ---
+
+## 🌐 Live Application
+The machine learning model is deployed as an interactive web application using **Streamlit**.
+
+🚀 **Live Streamlit App:**  
+👉 https://customerchurnpredictionbtr.streamlit.app/
+
+Users can input customer details and instantly receive churn predictions.
+
+---
 ## 🧠 Machine Learning Approach
 
 ### 1️⃣ Data Preprocessing
