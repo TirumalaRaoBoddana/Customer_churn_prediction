@@ -66,6 +66,9 @@ customer_churn_prediction/
 │── customer-churn-prediction.ipynb
 │── requirements.txt
 │── README.md
+```
+---
+
 ## 📊 Results
 
   - Built a robust and reusable ML pipeline
@@ -80,11 +83,18 @@ customer_churn_prediction/
   - Building production-ready machine learning pipelines
 
   - End-to-end ML deployment using Streamlit
+
+    
+---
+
 ## 📌 Future Improvements
 
   - Handling class imbalance using advanced techniques
 
   - Model explainability using SHAP or LIME
+    
+---
+
 ## 👨‍💻 Author
 
  - Boddana Tirumala Rao
